@@ -1,0 +1,5 @@
+I"i(function() {
+  Assignment26.ApplicationAdapter = DS.ActiveModelAdapter.extend({});
+
+}).call(this);
+:ET

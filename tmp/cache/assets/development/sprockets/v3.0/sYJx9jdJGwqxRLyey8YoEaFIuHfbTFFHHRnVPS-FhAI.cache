@@ -1,0 +1,5 @@
+I"W(function() {
+  window.Assignment26 = Ember.Application.create();
+
+}).call(this);
+:ET

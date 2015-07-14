@@ -1,0 +1,39 @@
+
+
+Started GET "/" for ::1 at 2015-07-14 18:49:03 -0500
+Processing by AssetsController#index as HTML
+  Rendered assets/index.html.erb (2712.0ms)
+Completed 200 OK in 2727ms (Views: 2718.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/ember-data.self-19d841555b450e3367efa75e391bccddb1bbd48f9b5cd54cd1b5b933cc30fdca.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/application.self-0fdccc69c737122313b90a1b456c6d484230b49a427602d43dfd84599842c5f4.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/ember.self-4d1559cf8c64fde2a269cb59e74dd596c8fb9be2386239bb30ed7def9dc8e534.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/active-model-adapter.self-5ce95ab4d058c261c398569dac701180da2225f26a29c8e8d96569fd4e589c67.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/adapters/application_adapter.self-4db10951bcd1c512d3ad3425b8e54dfe1fc564d4650036e4b3a3d12d13e107b8.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/templates/index.self-63ba2f49985a33919d662df026e4bddde6cd40464d4fab79f204c2fa726b8285.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/router.self-9b775554642050d019e4dec8535fdb94119d45a5ee3ffb1ec160f6df5bb178a8.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
+
+
+Started GET "/assets/assignment26.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-07-14 18:49:06 -0500
